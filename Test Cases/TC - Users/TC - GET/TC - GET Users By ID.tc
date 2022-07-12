@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - GET Users By ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b23e1036-4504-4ac7-9d59-4c28d009a522</testCaseGuid>
+</TestCaseEntity>

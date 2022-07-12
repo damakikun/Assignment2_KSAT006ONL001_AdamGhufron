@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - GET Photos By ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4c48fc9-e9d0-4ba7-9672-c9832b8e6a59</testCaseGuid>
+</TestCaseEntity>
